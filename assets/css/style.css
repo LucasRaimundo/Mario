@@ -113,3 +113,27 @@
     flex-wrap: wrap;
    
 }
+
+.score {
+    width: 1300px;
+    height: 40px;
+    padding: 5px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.text-score {
+    width: 270px;
+    height: 25px;
+    padding: 8px;
+    background-color:rgb(35, 160, 35);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    color: #ffffff;
+    border-radius: 30px;
+    text-align: center;
+    justify-content: center;
+}
